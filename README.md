@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on more of Data Science projects
 - 🤔 I’m looking for help with getting a full time data science job where i can code day in and day out.
 - 💬 Ask me about how I can be helpful to you.
-- 📫 How to reach me: guddubhagat88@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: guddubhagat88@gmail.com | https://www.linkedin.com/in/guddubhagat/ | 
+- ⚡ Fun fact: I can be  a good listener if you need to vent.
 
 
 
