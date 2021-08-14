@@ -4,7 +4,6 @@
 ![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94&show_icons=true&theme=radical)
 
 
- ![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94&hide=contribs,prs)
 
 
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on more of Data Science projects
 - 🤔 I’m looking for help with getting a full time data science job where i can code day in and day out.
 - 💬 Ask me about how I can be helpful to you.
-- 📫 How to reach me: 
+- 📫 How to reach me: guddubhagat88@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
