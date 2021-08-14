@@ -1,17 +1,17 @@
 ## Hi there 👋
-### My name is Guddu. I am from India. A data science intern looking for more opportunities to work in real time projects from Data Science field.
+### My name is Guddu. I am from India. A data science intern looking for more opportunities to work in more of real time projects from Data Science field.
 
 <!-- I am Guddu. I am from India(Bharat). I am an AI enthusiast. I love doing AI projects and reading about the methematics behind those algorithms which predict things so correctly almost like a wizard! I would also want to do drone programming.I finished my internship in Machine learning. I also like deep learning. 
  -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94)](https://github.com/codemonster94/github-readme-stats)
+[![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94)](https://github.com/codemonster94/github-readme-stats)
 
 
 
-<!-- **codemonster94/codemonster94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codemonster94/codemonster94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on NLP project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+ 
