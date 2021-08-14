@@ -1,8 +1,8 @@
-### Hi there 👋
-## My name is guddu
+## Hi there 👋
+### My name is Guddu. I am from India. A data science intern looking for more opportunities to work in real time projects from Data Science field.
 
-I am Guddu. I am from India(Bharat). I am an AI enthusiast. I love doing AI projects and reading about the methematics behind those algorithms which predict things so correctly almost like a wizard! I would also want to do drone programming.I finished my internship in Machine learning. I also like deep learning. 
-
+<!-- I am Guddu. I am from India(Bharat). I am an AI enthusiast. I love doing AI projects and reading about the methematics behind those algorithms which predict things so correctly almost like a wizard! I would also want to do drone programming.I finished my internship in Machine learning. I also like deep learning. 
+ -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94)](https://github.com/codemonster94/github-readme-stats)
 
 
