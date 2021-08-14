@@ -1,6 +1,9 @@
 ## Hi there 👋
 ### My name is Guddu. I am from India. A data science intern looking for more opportunities to work in more of real time projects from Data Science field.
 
+![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94&show_icons=true&theme=radical)
+
+
  ![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94&hide=contribs,prs)
 
 
@@ -18,6 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonster94&show_icons=true)
 
 
