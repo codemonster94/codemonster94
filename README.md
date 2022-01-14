@@ -11,8 +11,8 @@
  -->
 
 
-- 🔭 I’m currently working on NLP project and Time Series.
-- 🌱 I’m currently learning Docker, Natural language Processing.
+- 🔭 I’m currently learning anything that can help me achieve my goals
+- 🌱 I’m currently learning Natural language Processing.
 - 👯 I’m looking to collaborate on more of Data Science projects.
 - 🤔 I’m looking for help with getting a full time data science job where i can code day in and day out.
 - 💬 Ask me about how I can be helpful to you.
